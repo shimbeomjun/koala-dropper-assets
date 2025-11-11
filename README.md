@@ -1,0 +1,1 @@
+# koala-dropper-assets
